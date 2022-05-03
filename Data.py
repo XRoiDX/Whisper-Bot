@@ -7,14 +7,14 @@ class Data:
 Hey {}.
 Welcome to {}
 
-I am the Master of Whisperers (like Varys in Game of Thrones).
+**I am the Master of Whisperers (like Varys in Game of Thrones)**.
 
-You can use me to send whispers to your friend in groups and channels (even if I'm not there).
-Only that friend and you will be able to read the message even though others are in same group. 
+**You can use me to send whispers to your friend in groups and channels (even if I'm not there)**.
+**Only that friend and you will be able to read the message even though others are in same group**. 
 
-To see how to use me press 'How to Use' below.
+`To see how to use me press 'How to Use' below.`
 
-By @StarkBots
+𝑩𝒚 :- 𝑿𝒓𝒐𝒊𝑫 𝑩𝒐𝒕𝒁
     """
 
     # Home Button

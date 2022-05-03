@@ -19,27 +19,27 @@ Welcome to {}
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔒 Send a Whisper 🔒", switch_inline_query="")],
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton("🔒 𝑺𝒆𝒏𝒅 𝑨 𝑾𝒉𝒊𝒔𝒑𝒆𝒓 🔒", switch_inline_query="")],
+        [InlineKeyboardButton(text="🏠 𝑹𝒆𝒕𝒖𝒓𝒏 𝑯𝒐𝒎𝒆 🏠", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("🔒 Send a Whisper 🔒", switch_inline_query="")
+            InlineKeyboardButton("🔒 𝑺𝒆𝒏𝒅 𝑨 𝑾𝒉𝒊𝒔𝒑𝒆𝒓 🔒", switch_inline_query="")
         ],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("𝑯𝒐𝒘 𝑻𝒐 𝑼𝒔𝒆 ❔", callback_data="help"),
+            InlineKeyboardButton("🎪 𝑨𝒃𝒐𝒖𝒕 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ 𝑩𝒐𝒕𝒛 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ♥", url="https://t.me/XRoid_BotZ")],
+        [InlineKeyboardButton("🎨 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 🎨", url="https://t.me/XRoid_Support")],
     ]
 
     # Help Message
     HELP = """
 Just type the message in below format in any chat.
 
-`@WhisperStarkBot your_message friend_username/id`
+`@thisbotusername your_message friend_username/id`
     """
 
     # About Message

@@ -44,17 +44,13 @@ Just type the message in below format in any chat.
 
     # About Message
     ABOUT = """
-**About This Bot** 
-
-Bot created by @StarkBots
-
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/WhisperBot)
-
-Inspired By : nnbbot
-
-Framework : [Pyrogram](docs.pyrogram.org)
-
-Language : [Python](www.python.org)
-
-Developer : @StarkProgrammer
+╭╾ꕀ╾ꕀ╾ꕀ╾ꕀ╾ꕀ╾ꕀ╾ꕀ╾╯
+╰╮ 
+   ╳ 𝑴𝒀 𝑵𝑨𝑴𝑬 :- 𝑊ℎ𝑖𝑧𝑝𝑒𝑟 𝐵𝑜𝑡
+╭╯
+╳   𝑽𝑬𝑹𝑰𝑺𝑰𝑶𝑵 :- 3.9.6
+╰╮
+   ╳  𝑭𝑹𝑨𝑴𝑬𝑾𝑶𝑹𝑲 :- 𝑃𝑦𝑟𝑜𝑔𝑟𝑎𝑚
+╭╯
+╰═╍═╍═╍═╍═╍╤╍‌ ‌═‌ ‌╍‌ ‌═‌ ‌╍‌ ‌═‌ ‌╮
     """

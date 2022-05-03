@@ -24,9 +24,9 @@ main = [
         thumb_url="https://telegra.ph/file/89c7dd0a2ed6d30d75356.jpg",
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Sᴜᴩᴩᴏʀᴛ Gʀᴏᴜᴩ", url="https://t.me/XRoid_Support")],
-                [InlineKeyboardButton("🔒 Send a Whisper 🔒", switch_inline_query="")],
-                [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/XRoid_BotZ")]
+                [InlineKeyboardButton("𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑", url="https://t.me/XRoid_Support")],
+                [InlineKeyboardButton("🔒 𝑺𝒆𝒏𝒅 𝑨 𝑾𝒉𝒊𝒔𝒑𝒆𝒓 🔒", switch_inline_query="")],
+                [InlineKeyboardButton("♥ 𝑩𝒐𝒕𝒛 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ♥", url="https://t.me/XRoid_BotZ")]
             ]
         ),
     )
@@ -88,7 +88,7 @@ async def previous_target(sender):
                       [
                           [
                               InlineKeyboardButton(
-                                  "🔐 Show Message 🔐",
+                                  "🔐 𝑺𝒉𝒐𝒘 𝑴𝒆𝒔𝒔𝒂𝒈𝒆 🔐",
                                   callback_data=str(data_list),
                               )
                           ]
@@ -159,7 +159,7 @@ async def answer(bot: Client, query):
                             [
                                 [
                                     InlineKeyboardButton(
-                                        "🔐 Show Message 🔐",
+                                        "🔐 𝑺𝒉𝒐𝒘 𝑴𝒆𝒔𝒔𝒂𝒈𝒆 🔐",
                                         callback_data=str(data_list),
                                     )
                                 ]
